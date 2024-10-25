@@ -1,6 +1,6 @@
 # NaiveTicket
 
-The seconf Objects Lab:
+The second Objects Lab:
 
 Work through all these exercises. You edit this file with your answers for these exercises.
 
