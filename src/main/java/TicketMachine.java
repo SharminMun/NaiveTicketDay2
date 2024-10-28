@@ -72,11 +72,11 @@ public class TicketMachine {
         return total;
     }
 
-    private Integer incrementTicketNumber() {
+    public Integer incrementTicketNumber() {
         ticketNumber++;
-        int i = 1;
+       /* int i = 1;
         for (i = 0; i <= 10; i++) ;
-        TicketMachine machine1 = new ticketNumber.intValue(i = i + 1);
+        TicketMachine machine1 = new ticketNumber.intValue(i = i + 1);*/
         return ticketNumber;
     }
 
